@@ -5,8 +5,8 @@
         "description": "Description for test",
         "packageId": "com.google.android.apps.searchlite",
         "promoText": "Get a test app for free",
-        "iconUrl": "https://play-lh.googleusercontent.com/RZ5luCUwc5QtJP9xDn-ZCwEutT160GVyoh5K1eu4YJ5fD7v4LP5ptVdgR9mz4Hnr7A=w480-h960-rw",
-        "backgroundUrl": "https://play-lh.googleusercontent.com/jcAfJBxM4W1p-1Oe_DqHyb7qu28BvvKo-LwEfTdMvrQidiVVStaIVU62OmZsLmUKYFY=w1052-h592-rw",
+        "iconUrl": "https://illuminatibless.github.io/test/promo_1.png",
+        "backgroundUrl": "https://illuminatibless.github.io/test/prmo_1_bg.png",
         "videoUrl": "https://illuminatibless.github.io/test/promo_1.mp4",
         "priority": 2
     },
@@ -16,8 +16,8 @@
         "description": "Description for test 2",
         "packageId": "com.android.chrome",
         "promoText": "Get a test app for free 2",
-        "iconUrl": "https://play-lh.googleusercontent.com/QRRGW2tMZ4-FNw0XWk6WWiXHaQCGxuwM-92HrBhlA4WOd_AGmjVmQkiHyAqQjW2yByc=w480-h960-rw",
-        "backgroundUrl": "https://play-lh.googleusercontent.com/LvkIxv3mJ92SqaQ_H9rCAiuPC7keYi-O3HOiADp13tl7JWtL-q3CVbEHz5N1lkHaKWs=w1052-h592-rw",
+        "iconUrl": "https://illuminatibless.github.io/test/promo_2.png",
+        "backgroundUrl": "https://illuminatibless.github.io/test/promo_2_bg.png",
         "videoUrl": "https://illuminatibless.github.io/test/promo_1.mp4",
         "priority": 1
     }
