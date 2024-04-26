@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Test",
         "description": "Description for test",
         "packageId": "com.google.android.apps.searchlite",
@@ -9,6 +10,7 @@
         "priority": 2
     },
     {
+        "id": 2,
         "name": "Test 2",
         "description": "Description for test 2",
         "packageId": "com.android.chrome",
