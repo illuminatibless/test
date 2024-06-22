@@ -9,5 +9,16 @@
         "backgroundUrl": "https://illuminatibless.github.io/test/promo_1_bg.png",
         "videoUrl": "https://illuminatibless.github.io/test/promo_1_video_2.mp4",
         "priority": 2
+    },
+    {
+        "id": 1,
+        "name": "Free Robux Game",
+        "description": "FLAMINGO RECOMMENDS!",
+        "packageId": "com.roblocraft.free.robux.rpin",
+        "promoText": "",
+        "iconUrl": "https://illuminatibless.github.io/test/promo_1.png",
+        "backgroundUrl": "https://illuminatibless.github.io/test/promo_1_bg.png",
+        "videoUrl": "https://illuminatibless.github.io/test/promo_1_video_2.mp4",
+        "priority": 2
     }
 ]
